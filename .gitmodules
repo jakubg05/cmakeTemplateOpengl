@@ -1,3 +1,3 @@
-[submodule "thirdparty/glew"]
-	path = thirdparty/glew
+[submodule "thirdparty/glew-cmake"]
+	path = thirdparty/glew-cmake
 	url = https://github.com/Perlmint/glew-cmake
